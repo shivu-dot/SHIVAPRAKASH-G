@@ -13,9 +13,9 @@
 - Cloud-native deployments & microservices
 
 ### 📫 How to reach me:
-- ✉️ [your-email@example.com] (or just leave this out)
+- ✉️ shivusp506@gmail.com
 - 🌐 [portfolio-link if any]
-- 💼 LinkedIn: [your LinkedIn link]
+- 💼 LinkedIn: https://www.linkedin.com/in/shivaprakash-g-54b6a226a/
 
 ### 🧰 Tech Stack:
 `Python` `JavaScript` `Solidity` `FastAPI` `Next.js` `MongoDB`  
